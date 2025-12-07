@@ -6,8 +6,10 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Cybersecurity-Student-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Ethical-Hacking-Learner-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Open--Source-Security-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Open--Source-Contributor-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Security-Tools-red?style=for-the-badge"/>
 </p>
+
 
 ---
 
