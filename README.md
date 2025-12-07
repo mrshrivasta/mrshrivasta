@@ -35,3 +35,38 @@ Networking        : TCP/IP, IP Addressing, Network Security Fundamentals
 Operating Systems : Linux, Windows
 Programming       : Python, Bash, Go, Ruby (learning & applied)
 Tools             : Git, GitHub, Security Scanners, CTI Concepts
+
+
+## 🚀 Flagship Projects
+
+### 🛡️ MetaStrike
+**Modular Penetration Testing Framework**
+
+- Simulates real-world attack workflows in controlled environments
+- Plugin-based architecture inspired by Metasploit
+- Designed for penetration testing education and red-team learning
+
+**Tech:** Ruby, Bash, PostgreSQL
+
+---
+
+### 🔍 VulnRay
+**High-Speed Vulnerability Scanner**
+
+- Template-driven scanning inspired by Nuclei
+- Detects CVEs, misconfigurations, and exposure patterns
+- Built for automation and DevSecOps pipelines
+
+**Tech:** Go, YAML
+
+---
+
+### 🌐 AstraHawk
+**AI-Augmented Web Security Scanner**
+
+- Detects XSS, SQL Injection, authentication flaws
+- Supports active & passive analysis
+- Built for DAST and API security testing
+
+**Tech:** Java, Python
+
