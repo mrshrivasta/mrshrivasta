@@ -60,7 +60,7 @@ Tools             : Git, GitHub, Security Scanners, CTI Concepts
 **Tech:** Go, YAML
 
 ---
-
+![Profile Views](https://komarev.com/ghpvc/?username=mrshrivasta)
 ### 🌐 AstraHawk
 **AI-Augmented Web Security Scanner**
 
