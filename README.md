@@ -1,141 +1,235 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&height=80&lines=Hi%2C+I'm+Karanam+Shrivasta+%F0%9F%91%8B;Cybersecurity+Enthusiast+%7C+AI+Security+Builder;Building+Real-World+Security+Tools)](https://git.io/typing-svg)
+# 👨‍💻 Karanam Shrivasta
 
-![Profile Views](https://komarev.com/ghpvc/?username=karanam-shrivasta&style=for-the-badge&color=00d9ff&label=PROFILE+VIEWS)
-[![GitHub Followers](https://img.shields.io/github/followers/karanam-shrivasta?style=for-the-badge&color=00d9ff&labelColor=0d1117&logo=github&label=FOLLOWERS)](https://github.com/karanam-shrivasta?tab=followers)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karanam-shrivasta/)
+### Cybersecurity Engineer in Progress | AI Security Builder | DevSecOps Enthusiast
+
+Building **AI-powered cybersecurity platforms**, **SOC systems**, and **real-world security tools** focused on modern threat detection and digital defense.
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 🧠 About Me
 
-Cybersecurity enthusiast focused on **ethical hacking**, **AI-powered security systems**, **malware analysis**, and **penetration testing**.
+I am a highly motivated cybersecurity enthusiast focused on building **real-world, production-inspired security systems** rather than just theoretical knowledge.
 
-- 🛡️ Ethical Hacking · Threat Intelligence · Digital Forensics  
-- 🧠 AI Security Systems & SOC Platforms  
-- 🏆 180+ Certifications · 300+ Badges  
-- 🤝 Open to collaborations  
+My work centers around:
+- **Ethical hacking and penetration testing**
+- **AI-powered security systems**
+- **Malware analysis and threat detection**
+- **Digital forensics and incident response**
+- **Security Operations Center (SOC) tooling**
+- **DevSecOps concepts and secure system design**
+
+I actively design and develop platforms that simulate enterprise-level cybersecurity environments, integrating artificial intelligence for detection, automation, and analysis.
+
+---
+
+## 🎯 Mission
+
+To build **next-generation cybersecurity tools** that combine:
+- Artificial Intelligence  
+- Automation  
+- Real-time monitoring  
+- Threat intelligence  
+
+My goal is to contribute to building **smarter, faster, and more adaptive security systems**.
 
 ---
 
 ## 🏆 Achievements
 
-| Event | Format | Result |
-|---|---|---|
-| Google Build & Blog Marathon | Offline | 🥉 4th Place |
-| NextGen 2K25 Hackathon | Offline | 🏅 Winner |
-| Duality Hackathon | Online | 🎯 Finalist |
+- 180+ Certifications across Cybersecurity, AI, Cloud, and Networking  
+- 300+ Skill Badges and Learning Credentials  
+- Active Hackathon Participant and Builder  
+
+### 🥇 Hackathon Highlights
+- Google Build & Blog Marathon — 4th Place (Offline)  
+- NextGen 2K25 Hackathon — Winner (Offline)  
+- Duality Hackathon — Finalist (Online)  
 
 ---
 
-## 🧠 Skills
+## 🧠 Technical Skills
 
-**Languages:** Python · TypeScript · HTML · CSS · C  
-**Cybersecurity:** Pentesting · Malware Analysis · SOC · Threat Intel  
-**AI:** Machine Learning · AI Security  
+### 💻 Programming Languages
+- Python (Primary Language for Security Tools)
+- TypeScript (Frontend + System UI Development)
+- HTML5 (Structure)
+- CSS3 (UI Styling)
+- C (Fundamentals and low-level understanding)
 
 ---
 
-## 🚀 Projects
+### 🛡️ Cybersecurity Domains
+
+- Penetration Testing  
+- Vulnerability Assessment  
+- Malware Analysis  
+- Threat Intelligence  
+- Digital Forensics  
+- Log Analysis  
+- Incident Detection  
+- SOC Monitoring  
+
+---
+
+### 🤖 AI & Security Integration
+
+- Machine Learning for Security  
+- Behavioral Detection Systems  
+- Anomaly Detection  
+- AI-based Threat Classification  
+- Log Pattern Analysis  
+
+---
+
+### 🌐 Systems & Concepts
+
+- Network Security Fundamentals  
+- Traffic Analysis  
+- Authentication Systems  
+- Identity & Access Management  
+- Secure Architecture Design  
+
+---
+
+## 🚀 Featured Cybersecurity Projects
+
+These projects represent my work in building **AI-driven cybersecurity systems** and **real-world security platforms**.
+
+---
 
 ### 🖥️ CyberPulse — AI SOC Dashboard
-https://github.com/mrshrivasta/CyberPulse-AI-SOC-Dashboard-UI
+🔗 https://github.com/mrshrivasta/CyberPulse-AI-SOC-Dashboard-UI  
 
-⭐ Star · 🍴 Fork · 🤝 Contribute
+A Security Operations Center dashboard designed for:
+- Real-time threat monitoring  
+- Alert prioritization  
+- Incident tracking  
 
----
-
-### 🔬 ThreatLab — Malware Analysis Sandbox
-https://github.com/mrshrivasta/ThreatLab-AI-AI-Malware-Analysis-Sandbox-UI-
-
-⭐ Star · 🍴 Fork · 🤝 Contribute
+Simulates enterprise SOC workflows with AI-assisted insights.
 
 ---
 
-### 🕵️ TraceMind — Digital Forensics UI
-https://github.com/mrshrivasta/TraceMind-Digital-Forensics-Investigation-UI-All-Pages-
+### 🔬 ThreatLab — AI Malware Analysis Sandbox
+🔗 https://github.com/mrshrivasta/ThreatLab-AI-AI-Malware-Analysis-Sandbox-UI-  
 
-⭐ Star · 🍴 Fork · 🤝 Contribute
+A malware analysis environment supporting:
+- Static analysis  
+- Behavioral inspection  
+- Threat classification  
 
----
-
-### 🛡️ VulnGuard — Vulnerability Platform
-https://github.com/mrshrivasta/VulnGuard-AI-Vulnerability-Management-Platform-UI-
-
-⭐ Star · 🍴 Fork · 🤝 Contribute
+Designed to emulate real-world malware research systems.
 
 ---
 
-### 🔑 AccessCore — Identity Access Platform
-https://github.com/mrshrivasta/AccessCore-AI-Identity-Access-Management-Platform-UI-
+### 🕵️ TraceMind — Digital Forensics Platform
+🔗 https://github.com/mrshrivasta/TraceMind-Digital-Forensics-Investigation-UI-All-Pages-  
 
-⭐ Star · 🍴 Fork · 🤝 Contribute
+A full investigation system covering:
+- Evidence collection  
+- Artifact correlation  
+- Timeline reconstruction  
 
----
-
-### 🌐 OmniSec — Security Command Center
-https://github.com/mrshrivasta/OmniSec-Unified-Cybersecurity-Command-Center-UI
-
-⭐ Star · 🍴 Fork · 🤝 Contribute
+Focused on incident response workflows.
 
 ---
 
-### 🎣 PhishEye — Phishing Analysis
-https://github.com/mrshrivasta/PhishEye-Email-Forensics-Phishing-Analysis-UI
+### 🛡️ VulnGuard — Vulnerability Management Platform
+🔗 https://github.com/mrshrivasta/VulnGuard-AI-Vulnerability-Management-Platform-UI-  
 
-⭐ Star · 🍴 Fork · 🤝 Contribute
+Platform for:
+- Vulnerability detection  
+- Risk prioritization  
+- Remediation planning  
 
----
-
-### 📡 IoTSentry — Device Security
-https://github.com/mrshrivasta/IoTSentry-Device-Security-Monitor-UI
-
-⭐ Star · 🍴 Fork · 🤝 Contribute
+Built with AI-based decision support.
 
 ---
 
-### ⏱️ ChronoTrace — Forensics Timeline
-https://github.com/mrshrivasta/ChronoTrace-Digital-Forensics-Timeline-Explorer-UI
+### 🔑 AccessCore — Identity & Access Management
+🔗 https://github.com/mrshrivasta/AccessCore-AI-Identity-Access-Management-Platform-UI-  
 
-⭐ Star · 🍴 Fork · 🤝 Contribute
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=karanam-shrivasta&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanam-shrivasta&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=karanam-shrivasta&theme=tokyonight&hide_border=true" />
-
-</div>
+Implements:
+- Role-based access control  
+- Behavioral authentication  
+- Zero Trust concepts  
 
 ---
 
-## 🤝 Open for Contributions
+### 🌐 OmniSec — Unified Cybersecurity Command Center
+🔗 https://github.com/mrshrivasta/OmniSec-Unified-Cybersecurity-Command-Center-UI  
 
-- 🐛 Report bugs  
-- 💡 Suggest features  
-- 🔧 Submit PRs  
-- ⭐ Star repos  
-
----
-
-## 📬 Connect
-
-- LinkedIn: https://www.linkedin.com/in/karanam-shrivasta/
-- GitHub: https://github.com/karanam-shrivasta
+Centralized dashboard combining:
+- SIEM data  
+- Threat feeds  
+- Incident response  
 
 ---
 
-⭐ *If you like my work, consider starring the repositories!*
+### 🎣 PhishEye — Phishing Detection System
+🔗 https://github.com/mrshrivasta/PhishEye-Email-Forensics-Phishing-Analysis-UI  
+
+Detects:
+- Malicious URLs  
+- Suspicious email headers  
+- Phishing patterns  
+
+---
+
+### 📡 IoTSentry — IoT Security Monitor
+🔗 https://github.com/mrshrivasta/IoTSentry-Device-Security-Monitor-UI  
+
+Monitors:
+- Connected devices  
+- Network behavior  
+- Unauthorized access  
+
+---
+
+### ⏱️ ChronoTrace — Forensics Timeline Explorer
+🔗 https://github.com/mrshrivasta/ChronoTrace-Digital-Forensics-Timeline-Explorer-UI  
+
+Builds:
+- Event timelines  
+- Correlation graphs  
+- Incident reconstruction  
+
+---
+
+## 🔍 SEO Keywords (Visibility Boost)
+
+Cybersecurity Projects · Ethical Hacking Tools · AI Security Systems · Malware Analysis Platform · SOC Dashboard · Digital Forensics Tools · Threat Detection Systems · Bug Bounty Tools · Penetration Testing Tools · DevSecOps Security Tools
+
+---
+
+## 🤝 Open Source Collaboration
+
+I actively support open-source contributions in cybersecurity.
+
+Ways to contribute:
+- Report bugs  
+- Suggest features  
+- Submit pull requests  
+- Improve documentation  
+
+---
+
+## 📬 Contact & Professional Presence
+
+- LinkedIn: https://www.linkedin.com/in/karanam-shrivasta/  
+- GitHub: https://github.com/karanam-shrivasta  
+
+---
+
+## ⚡ Closing Note
+
+Cybersecurity is not just about tools — it’s about understanding systems, predicting threats, and building defenses that evolve.
+
+I am continuously working toward building systems that reflect real-world security challenges and solutions.
+
+---
+
+⭐ If you find my work valuable, explore the repositories and contribute.
