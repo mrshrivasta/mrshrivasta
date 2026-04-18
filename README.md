@@ -1,235 +1,172 @@
 <div align="center">
 
-# 👨‍💻 Karanam Shrivasta
+<!-- ANIMATED HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,100:0d1117&height=200&section=header&text=Karanam%20Shrivasta&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
-### Cybersecurity Engineer in Progress | AI Security Builder | DevSecOps Enthusiast
-
-Building **AI-powered cybersecurity platforms**, **SOC systems**, and **real-world security tools** focused on modern threat detection and digital defense.
+<!-- TYPING ANIMATION -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Cybersecurity+Engineer+%7C+AI+Security+Builder;Ethical+Hacking+%7C+SOC+%7C+Digital+Forensics;Building+Real-World+Security+Systems)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🧠 About Me
+# 🧑‍💻 About Me
 
-I am a highly motivated cybersecurity enthusiast focused on building **real-world, production-inspired security systems** rather than just theoretical knowledge.
+I am a **Cybersecurity Enthusiast and AI Security Builder** focused on building **real-world security systems**, not just learning theory.
 
-My work centers around:
-- **Ethical hacking and penetration testing**
-- **AI-powered security systems**
-- **Malware analysis and threat detection**
-- **Digital forensics and incident response**
-- **Security Operations Center (SOC) tooling**
-- **DevSecOps concepts and secure system design**
+- 🔐 Ethical Hacking & Penetration Testing  
+- 🤖 AI-powered Security Systems  
+- 🧠 Malware Analysis & Threat Detection  
+- 🕵️ Digital Forensics & Incident Response  
+- ⚙️ SOC Engineering & Security Platforms  
 
-I actively design and develop platforms that simulate enterprise-level cybersecurity environments, integrating artificial intelligence for detection, automation, and analysis.
+🏆 **180+ Certifications | 300+ Badges | 3+ Hackathons (Google, NextGen, Duality)**  
 
 ---
 
-## 🎯 Mission
+# 🧠 Tech Stack
 
-To build **next-generation cybersecurity tools** that combine:
-- Artificial Intelligence  
-- Automation  
-- Real-time monitoring  
-- Threat intelligence  
+## 💻 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python,ts,html,css,c" />
+</p>
 
-My goal is to contribute to building **smarter, faster, and more adaptive security systems**.
+## 🛡️ Cybersecurity Tools
+<p>
+<img src="https://skillicons.dev/icons?i=linux,bash,git,github" />
+</p>
 
----
-
-## 🏆 Achievements
-
-- 180+ Certifications across Cybersecurity, AI, Cloud, and Networking  
-- 300+ Skill Badges and Learning Credentials  
-- Active Hackathon Participant and Builder  
-
-### 🥇 Hackathon Highlights
-- Google Build & Blog Marathon — 4th Place (Offline)  
-- NextGen 2K25 Hackathon — Winner (Offline)  
-- Duality Hackathon — Finalist (Online)  
+## 🤖 AI & Systems
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow" />
+</p>
 
 ---
 
-## 🧠 Technical Skills
-
-### 💻 Programming Languages
-- Python (Primary Language for Security Tools)
-- TypeScript (Frontend + System UI Development)
-- HTML5 (Structure)
-- CSS3 (UI Styling)
-- C (Fundamentals and low-level understanding)
+# 🚀 Featured Cybersecurity Projects
 
 ---
 
-### 🛡️ Cybersecurity Domains
-
-- Penetration Testing  
-- Vulnerability Assessment  
-- Malware Analysis  
-- Threat Intelligence  
-- Digital Forensics  
-- Log Analysis  
-- Incident Detection  
-- SOC Monitoring  
-
----
-
-### 🤖 AI & Security Integration
-
-- Machine Learning for Security  
-- Behavioral Detection Systems  
-- Anomaly Detection  
-- AI-based Threat Classification  
-- Log Pattern Analysis  
-
----
-
-### 🌐 Systems & Concepts
-
-- Network Security Fundamentals  
-- Traffic Analysis  
-- Authentication Systems  
-- Identity & Access Management  
-- Secure Architecture Design  
-
----
-
-## 🚀 Featured Cybersecurity Projects
-
-These projects represent my work in building **AI-driven cybersecurity systems** and **real-world security platforms**.
-
----
-
-### 🖥️ CyberPulse — AI SOC Dashboard
+## 🖥️ CyberPulse — AI SOC Dashboard  
 🔗 https://github.com/mrshrivasta/CyberPulse-AI-SOC-Dashboard-UI  
 
-A Security Operations Center dashboard designed for:
+AI-powered SOC dashboard for:
 - Real-time threat monitoring  
-- Alert prioritization  
-- Incident tracking  
+- Incident response  
+- Log analysis  
 
-Simulates enterprise SOC workflows with AI-assisted insights.
+⭐ Star · 🍴 Fork · 🤝 Contribute  
 
 ---
 
-### 🔬 ThreatLab — AI Malware Analysis Sandbox
+## 🔬 ThreatLab — Malware Analysis Sandbox  
 🔗 https://github.com/mrshrivasta/ThreatLab-AI-AI-Malware-Analysis-Sandbox-UI-  
 
-A malware analysis environment supporting:
-- Static analysis  
-- Behavioral inspection  
-- Threat classification  
-
-Designed to emulate real-world malware research systems.
+- Static & Dynamic malware analysis  
+- AI-based threat classification  
+- IOC extraction  
 
 ---
 
-### 🕵️ TraceMind — Digital Forensics Platform
+## 🕵️ TraceMind — Digital Forensics Platform  
 🔗 https://github.com/mrshrivasta/TraceMind-Digital-Forensics-Investigation-UI-All-Pages-  
 
-A full investigation system covering:
-- Evidence collection  
-- Artifact correlation  
+- Evidence analysis  
 - Timeline reconstruction  
-
-Focused on incident response workflows.
+- Investigation workflows  
 
 ---
 
-### 🛡️ VulnGuard — Vulnerability Management Platform
+## 🛡️ VulnGuard — Vulnerability Platform  
 🔗 https://github.com/mrshrivasta/VulnGuard-AI-Vulnerability-Management-Platform-UI-  
 
-Platform for:
-- Vulnerability detection  
-- Risk prioritization  
-- Remediation planning  
-
-Built with AI-based decision support.
+- Risk scoring  
+- CVE tracking  
+- Remediation insights  
 
 ---
 
-### 🔑 AccessCore — Identity & Access Management
+## 🔑 AccessCore — IAM Platform  
 🔗 https://github.com/mrshrivasta/AccessCore-AI-Identity-Access-Management-Platform-UI-  
 
-Implements:
-- Role-based access control  
+- Zero Trust  
 - Behavioral authentication  
-- Zero Trust concepts  
+- Access control  
 
 ---
 
-### 🌐 OmniSec — Unified Cybersecurity Command Center
+## 🌐 OmniSec — Security Command Center  
 🔗 https://github.com/mrshrivasta/OmniSec-Unified-Cybersecurity-Command-Center-UI  
 
-Centralized dashboard combining:
-- SIEM data  
+- SIEM integration  
 - Threat feeds  
-- Incident response  
+- Incident dashboard  
 
 ---
 
-### 🎣 PhishEye — Phishing Detection System
+## 🎣 PhishEye — Phishing Detection  
 🔗 https://github.com/mrshrivasta/PhishEye-Email-Forensics-Phishing-Analysis-UI  
 
-Detects:
-- Malicious URLs  
-- Suspicious email headers  
-- Phishing patterns  
+- Email analysis  
+- URL detection  
+- Threat intelligence  
 
 ---
 
-### 📡 IoTSentry — IoT Security Monitor
+## 📡 IoTSentry — IoT Security  
 🔗 https://github.com/mrshrivasta/IoTSentry-Device-Security-Monitor-UI  
 
-Monitors:
-- Connected devices  
-- Network behavior  
-- Unauthorized access  
+- Device monitoring  
+- Network security  
+- Threat detection  
 
 ---
 
-### ⏱️ ChronoTrace — Forensics Timeline Explorer
+## ⏱️ ChronoTrace — Timeline Explorer  
 🔗 https://github.com/mrshrivasta/ChronoTrace-Digital-Forensics-Timeline-Explorer-UI  
 
-Builds:
-- Event timelines  
-- Correlation graphs  
-- Incident reconstruction  
+- Event correlation  
+- Timeline visualization  
+- Incident analysis  
 
 ---
 
-## 🔍 SEO Keywords (Visibility Boost)
+# 🔥 SEO KEYWORDS (IMPORTANT)
 
-Cybersecurity Projects · Ethical Hacking Tools · AI Security Systems · Malware Analysis Platform · SOC Dashboard · Digital Forensics Tools · Threat Detection Systems · Bug Bounty Tools · Penetration Testing Tools · DevSecOps Security Tools
-
----
-
-## 🤝 Open Source Collaboration
-
-I actively support open-source contributions in cybersecurity.
-
-Ways to contribute:
-- Report bugs  
-- Suggest features  
-- Submit pull requests  
-- Improve documentation  
+Cybersecurity Projects • Ethical Hacking Tools • AI Security Systems • Malware Analysis Platform • SOC Dashboard • Digital Forensics Tools • Penetration Testing • Threat Detection • DevSecOps Security Tools • Bug Bounty Tools
 
 ---
 
-## 📬 Contact & Professional Presence
+# 🤝 Open Source Contributions
 
-- LinkedIn: https://www.linkedin.com/in/karanam-shrivasta/  
-- GitHub: https://github.com/karanam-shrivasta  
+I actively welcome:
 
----
-
-## ⚡ Closing Note
-
-Cybersecurity is not just about tools — it’s about understanding systems, predicting threats, and building defenses that evolve.
-
-I am continuously working toward building systems that reflect real-world security challenges and solutions.
+- 🐛 Bug reports  
+- 💡 Feature suggestions  
+- 🔧 Pull requests  
+- 📖 Documentation improvements  
 
 ---
 
-⭐ If you find my work valuable, explore the repositories and contribute.
+# 📈 Contribution Graph (ANIMATION)
+
+<div align="center">
+
+![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+# 📬 Connect
+
+- 🔗 LinkedIn: https://www.linkedin.com/in/karanam-shrivasta/  
+- 💻 GitHub: https://github.com/karanam-shrivasta  
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,100:0d1117&height=120&section=footer"/>
+
+</div>
