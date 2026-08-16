@@ -20,7 +20,7 @@ I am a **Cybersecurity Enthusiast and AI Security Builder** focused on building 
 - 🕵️ Digital Forensics & Incident Response  
 - ⚙️ SOC Engineering & Security Platforms  
 
-🏆 **180+ Certifications | 300+ Badges | 3+ Hackathons (Google, NextGen, Duality)**  
+🏆 **500+ Certifications | 1250+ Badges | 3+ Hackathons (Google, NextGen, Duality)**  
 
 ---
 
